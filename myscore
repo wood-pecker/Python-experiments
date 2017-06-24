@@ -1,0 +1,3 @@
+myscore = 1200
+message = 'Мой счет: %s очков'
+print(message % myscore)
